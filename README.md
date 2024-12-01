@@ -9,11 +9,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aparna2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aparna2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aparna2004&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=aparna2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aparna2004&theme=tokyonight&hide_border=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aparna2004&bg_color=000000&color=94afff&line=4c9e95&point=cbb8ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aparna2004&bg_color=09001f&color=a5bbfd&line=37beae&point=e6b8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aparna2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
