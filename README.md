@@ -14,7 +14,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aparna2004&bg_color=000000&color=94afff&line=4c9e95&point=cbb8ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aparna2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -24,16 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aparna2004&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aparna2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aparna2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=aparna2004&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
