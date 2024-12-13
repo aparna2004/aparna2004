@@ -13,7 +13,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aparna2004&bg_color=000000&color=94afff&line=4c9e95&point=cbb8ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake animation](https://github.com/aparna2004/aparna2004/blob/output/github-contribution-grid-snake2.svg)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mithun2303/mithun2303/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aparna2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
