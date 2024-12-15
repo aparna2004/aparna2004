@@ -24,13 +24,9 @@
 <h2 align="center">⚡ Random Stats ⚡</h2>
 <br>
 <div align=center>
-  
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=aparna2004&theme=tokyonight&hide_border=false" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aparna2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
-  
-  
+  <img width=330 src="https://github-readme-stats.vercel.app/api?username=aparna2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="streak stats"/>
+  <img width=361 src="https://github-readme-streak-stats.herokuapp.com/?user=aparna2004&theme=tokyonight&hide_border=true" /> <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br/><br/>
